@@ -1,4 +1,4 @@
-<h1 align="center">PROBABILIDADES DE TRANSICIÓN EN VECTORES KET</h1>
+<h1 align="center">PROBABILIDADES DE TRÁNSITO ENTRE VECTORES KET</h1>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6GkBiwJNhdScSTJiHIn9ewlujnuJrqoWJTH6yVpVTzBNsRDPo4mjpUpyin1Atfh6PnCujp8Nl9KWdTIyz1vO-hmi_a-cSERpVTGXC59iXu_OUonjQsrO2UwXYhy0gc1K8MlhV_287qQ4jZCyA5dWwdPx2Koqxn1e7D81Mu8AKASfJPDIBxHoClA/s16000/a.png" alt="" class="Complex" width=100%>
 
 `Esta librería contiene funciones en Python que logran simular algunos de los experimentos más conocidos en la computación cuántica.` <br>
