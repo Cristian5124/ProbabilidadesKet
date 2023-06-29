@@ -1,8 +1,8 @@
 <h1 align="center">PROBABILIDADES DE TRÁNSITO ENTRE VECTORES KET</h1>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6GkBiwJNhdScSTJiHIn9ewlujnuJrqoWJTH6yVpVTzBNsRDPo4mjpUpyin1Atfh6PnCujp8Nl9KWdTIyz1vO-hmi_a-cSERpVTGXC59iXu_OUonjQsrO2UwXYhy0gc1K8MlhV_287qQ4jZCyA5dWwdPx2Koqxn1e7D81Mu8AKASfJPDIBxHoClA/s16000/a.png" alt="" class="Complex" width=100%>
 
-`Esta librería contiene algunas de las operaciones probabilísticas más conocidas de la computación cuántica básica.` <br>
-`Algunos de los aspectos más relevantes de este trabajo son:` <br><br>
+`Esta librería contiene algunas de las operaciones probabilísticas más conocidas de la computación cuántica básica.` <br><br>
+Algunos de los aspectos más relevantes de este trabajo son: <br><br>
 ✔️ Comentarios en todas las operaciones matemáticas para una lectura más sencilla. <br>
 ✔️ Funciones individuales que simulan diferentes sistemas cuánticos en el lenguaje de programación Python. <br>
 ✔️ Utilización de la librería Numpy para las operaciones entre vectores ket y matrices hermitianas.
